@@ -1,4 +1,4 @@
 username.github.io
 ==================
 
-Slidify pages
+Slidify Pages for pitching my data product built in Data Science Specialization.
