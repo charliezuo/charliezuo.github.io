@@ -1,4 +1,4 @@
 charliezuo.github.io
 ==================
 
-Slidify Pages for pitching my data product built in Data Science Specialization.
+Slidify Presentation for pitching my data product built in JHU Coursera Data Science Specialization course.
